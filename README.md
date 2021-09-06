@@ -16,7 +16,7 @@ more data, we will find more trends in fast food meals.
 ### Step by step of this project:
 
 1. Data source: [menustat](http://www.menustat.org/#/home).
-2. Browsing the data with Jupyter Notebook.
+2. Exploring the data with Jupyter Notebook.
 3. Designing the schema. 'menu_data_EER.drawio'
 4. Data cleansing, extract, and transform. 'data_cleansing_extract_transform.ipynb'
 5. Setup row store and column store design, then load data. 'load_data_mariadb_cloud.ipynb'
