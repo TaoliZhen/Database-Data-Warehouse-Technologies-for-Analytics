@@ -19,8 +19,8 @@ more data, we will find more trends in fast food meals.
 2. Exploring the data with Jupyter Notebook.
 3. Designing the schema. 'menu_data_EER.drawio'
 4. Data cleansing, extract, and transform. 'data_cleansing_extract_transform.ipynb'
-5. Setup row store and column store design, then load data. 'load_data_mariadb_cloud.ipynb'
-6. Example analytical queries. 'database_analysis_queries.ipynb'
+5. Setup row store and column store, then load data to row store, column store will be updated automatically. 'load_data_mariadb_cloud.ipynb'
+6. Perform analytics with example analytical queries. 'database_analysis_queries.ipynb'
 7. Report of the results. 'Final_Report.pdf' in the 'Report' folder.
 
 ### How to connect to MariaDB?
